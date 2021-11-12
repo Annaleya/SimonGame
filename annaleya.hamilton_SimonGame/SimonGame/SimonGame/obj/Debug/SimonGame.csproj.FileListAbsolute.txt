@@ -1,0 +1,7 @@
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\bin\Debug\SimonGame.exe.config
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\bin\Debug\SimonGame.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\bin\Debug\SimonGame.pdb
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\obj\Debug\SimonGame.csproj.AssemblyReference.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\obj\Debug\SimonGame.csproj.CoreCompileInputs.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\obj\Debug\SimonGame.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_SimonGame\SimonGame\SimonGame\obj\Debug\SimonGame.pdb
